@@ -1,0 +1,17 @@
+,taxonID,datasetID,parentNameUsageID,acceptedNameUsageID,originalNameUsageID,scientificName,scientificNameAuthorship,canonicalName,genericName,specificEpithet,infraspecificEpithet,taxonRank,nameAccordingTo,namePublishedIn,taxonomicStatus,nomenclaturalStatus,taxonRemarks,kingdom,phylum,class,order,family,genus
+157,1880737,7ddf754f-d193-4cc9-b351-99906754a03b,8841,,,"Beebea Schaus, 1923","Schaus, 1923",Beebea,Beebea,,,genus,,,accepted,,,Animalia,Arthropoda,Insecta,Lepidoptera,Crambidae,Beebea
+474,8868739,b9a214b7-c368-4d22-aa53-b1fc16a1210a,0,,,"Aaaaba Bellamy, 2013","Bellamy, 2013",Aaaaba,Aaaaba,,,genus,,,doubtful,,,incertae sedis,,,,,Aaaaba
+774,1993011,7ddf754f-d193-4cc9-b351-99906754a03b,8870,,,"Addaea Walker, 1865","Walker, 1865",Addaea,Addaea,,,genus,,,accepted,,,Animalia,Arthropoda,Insecta,Lepidoptera,Thyrididae,Addaea
+827,3104429,7ddf754f-d193-4cc9-b351-99906754a03b,3065,,,Feddea Urb.,Urb.,Feddea,Feddea,,,genus,,,accepted,,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Feddea
+957,7663904,7ddf754f-d193-4cc9-b351-99906754a03b,9447,,,"Cea Walker, 1837","Walker, 1837",Cea,Cea,,,genus,,,accepted,,,Animalia,Arthropoda,Insecta,Hymenoptera,Pteromalidae,Cea
+1429,3242674,0938172b-2086-439c-a1dd-c21cb0109ed5,212,,,"Ada Lesson, 1830-31","Lesson, 1830-31",Ada,Ada,,,genus,,,doubtful,,,Animalia,Chordata,Aves,,,Ada
+1473,3239014,0938172b-2086-439c-a1dd-c21cb0109ed5,358,,,"Ada Gray, 1825","Gray, 1825",Ada,Ada,,,genus,,,doubtful,,,Animalia,Chordata,Reptilia,,,Ada
+3075,3054233,7ddf754f-d193-4cc9-b351-99906754a03b,3111,,,Cadaba Forssk.,Forssk.,Cadaba,Cadaba,,,genus,,,accepted,,,Plantae,Tracheophyta,Magnoliopsida,Brassicales,Capparaceae,Cadaba
+3610,3267838,0938172b-2086-439c-a1dd-c21cb0109ed5,1497,3267837.0,,"Cea d'Orbigny, 1854","d'Orbigny, 1854",Cea,Cea,,,genus,,,synonym,,,Animalia,Bryozoa,Stenolaemata,Cyclostomatida,,Ceata
+4670,4813032,0938172b-2086-439c-a1dd-c21cb0109ed5,2254,,,"Aceeca Blakemore, 2000","Blakemore, 2000",Aceeca,Aceeca,,,genus,,,accepted,,,Animalia,Annelida,Clitellata,Opisthopora,Megascolecidae,Aceeca
+4863,3257779,0938172b-2086-439c-a1dd-c21cb0109ed5,7015,1796284.0,,"Cea Grote, 1883","Grote, 1883",Cea,Cea,,,genus,,,synonym,,,Animalia,Arthropoda,Insecta,Lepidoptera,Noctuidae,Sparkia
+4956,2834106,66dd0960-2d7d-46ee-a491-87b9adcfe7b1,7689,2840323.0,,Ada Lindl.,Lindl.,Ada,Ada,,,genus,,,synonym,,,Plantae,Tracheophyta,Liliopsida,Asparagales,Orchidaceae,Brassia
+5257,4722660,0938172b-2086-439c-a1dd-c21cb0109ed5,7857,1045836.0,,"Eba Pascoe, 1863","Pascoe, 1863",Eba,Eba,,,genus,,,synonym,,,Animalia,Arthropoda,Insecta,Coleoptera,Tenebrionidae,Palorus
+5777,3848623,046bbc50-cae2-47ff-aa43-729fbf53f7c5,8798,,,Caffea Noronha,Noronha,Caffea,Caffea,,,genus,,,doubtful,,,Plantae,Tracheophyta,Magnoliopsida,Gentianales,Rubiaceae,Caffea
+6070,1396907,0938172b-2086-439c-a1dd-c21cb0109ed5,9447,7663904.0,,"Cea Haliday in Curtis, 1829-30","Haliday in Curtis, 1829-30",Cea,Cea,,,genus,,,synonym,,,Animalia,Arthropoda,Insecta,Hymenoptera,Pteromalidae,Cea
+6622,3253404,0938172b-2086-439c-a1dd-c21cb0109ed5,3253428,,,"Cea González-Sponga, 1987","González-Sponga, 1987",Cea,Cea,,,genus,,,doubtful,,,Animalia,Arthropoda,Arachnida,Opiliones,Zalmoxidae,Cea
