@@ -20,6 +20,14 @@ There are seven accepted scientific names (all genera) that meet the criteria fo
 - Cea (wasps)
 - Feddea (sunflowers)
 
+## Methodology
+
+### Data Sources
+
+Scientific names were taken from the [Global Biodiversity Information Facility Backbone Taxonomy](https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c).
+
+GBIF data were analyzed using the Python pandas library. For a breakdown of the analysis, please see 
+
 
 
 
